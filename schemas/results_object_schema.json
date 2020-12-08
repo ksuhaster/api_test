@@ -1,0 +1,93 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+    "properties": {
+      "id":                 { "type": "integer" },
+      "title":              { "type": "string" },
+      "slug":               { "type": "string" },
+      "company_name":       { "type": "string" },
+      "short_description":  { "type": "string" },
+      "long_description":   { "type": "string" },
+
+      "category": {"type": "object",
+        "properties": {
+          "id":         { "type": "string" },
+          "name":       { "type": "string" }},
+        "additionalProperties": false,
+        "required": ["id", "name"]},
+
+      "location":       { "type": "string" },
+      "experience":     { "type": "integer" },
+
+      "english":        { "type": "object",
+        "properties": {
+          "id":         { "type": "string" },
+          "name":       { "type": "string" }},
+        "additionalProperties": false,
+        "required": ["id", "name"]},
+
+      "domain":             { "type": "string" },
+      "published":          { "type": "string" },
+
+      "recruiter": { "type": "object",
+        "properties": {
+          "employer_website":   { "type": ["string", "null"] },
+          "picture_url":        { "type": ["string", "null"] },
+          "linkedin_headline":  { "type": ["string", "null"] },
+          "name":               { "type": "string" },
+          "employer_about":     { "type": "string" },
+          "position":           { "type": "string" },
+          "public_url":         { "type": "string" },
+          "badge":              { "type": "string" },
+          "id":                 { "type": "integer" },
+          "company_name":       { "type": "string" }
+        },
+        "additionalProperties": false,
+        "required": [
+          "badge",
+          "company_name",
+          "employer_about",
+          "employer_website",
+          "id",
+          "linkedin_headline",
+          "name",
+          "picture_url",
+          "position",
+          "public_url"
+          ]
+      },
+      "is_online":            { "type": "boolean" },
+      "dou_link":             { "type": ["string", "null"] },
+      "is_favorite":          { "type": "boolean" },
+      "has_seen":             { "type": "boolean" },
+      "has_applied":          { "type": "boolean" },
+      "messagethread_url":    { "type": "string" },
+      "views_count":          { "type": "integer" },
+      "applications_count":   { "type": "integer" }
+      },
+    "additionalProperties": false,
+    "required": [
+      "applications_count",
+      "category",
+      "company_name",
+      "domain",
+      "dou_link",
+      "english",
+      "experience",
+      "has_applied",
+      "has_seen",
+      "id",
+      "is_favorite",
+      "is_online",
+      "location",
+      "long_description",
+      "messagethread_url",
+      "published",
+      "recruiter",
+      "short_description",
+      "slug",
+      "title",
+      "views_count"
+      ]
+
+}

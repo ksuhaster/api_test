@@ -1,0 +1,366 @@
+{
+  "count": 14125,
+  "favorites_count": 0,
+
+  "limit": 10,
+  "results": [
+    {
+      "id": 179039,
+      "title": "Regular Manual Test Engineer",
+      "slug": "179039-regular-manual-test-engineer",
+      "company_name": "Luxoft",
+      "short_description": "We are looking for Regular Manual Test Engineer",
+      "long_description": "\u2022 Working as a part of the testing team in Luxoft Automotive Account.\r\n\u2022 Our client is an American multinational automaker.\r\n\u2022 The main focus is to improve existing test strategy for HTML5 HMI testing and ensure the successful delivery of a quality product by writing and execution tests scenarios on a daily basis.\r\n\u2022 You will work in a changing and challenging environment in a multicultural team.\r\n\u2022 This position requires a highly motivated engineer with strong technical, communication skills.\r\n\r\n\r\nOur team:\r\nFast growing, balanced, self-motivated\r\n\r\nTechnologies used:\r\nSelenium\r\nHTML5\r\nCAN\r\nScrum\r\nResponsibilities:\r\n\u2022 Test cases creation and implementation.\r\n\u2022 Testing of HTML5 based / hardware HMI; \r\n\u2022 Communication with developers, QAs and product owners; \r\n\u2022 Analyze business requirements, design documents for completeness and testability; \r\n\u2022 Execute test cases and update test documentation; \r\n\u2022 Create effective test reports and traceability matrix; \r\n\u2022 Review test failures and determine the sources of problems (test deficiencies, deviation from requirements, etc.) \r\n\u2022 Participate in setting test strategy for the given set of requirements\r\n\u2022 Work with bug tracking system to record, trace and drive to resolution defects and issues discovered\r\n\u2022 Support development team in issues reproduction and root cause analysis\r\n\u2022 Report work progress continuously through attendance of daily & weekly project internal meetings\r\nMandatory Skills:\r\n\u2022 Practical knowledge of Linux based OS\r\n\u2022 Practical knowledge of test methodologies, relevant standards, processes and tools\r\n\u2022 Understanding of HTTP, TCP protocols\r\n\u2022 WebSocket understanding\r\n\u2022 Experience of working with Subversion, Git, Maven, Jira, TestRail, Jenkins\r\n\u2022 Analytical mind, willingness to understand complex systems and find their weaknesses\r\n\u2022 Be proactive, self-motivated and self-disciplined\r\n\u2022 High attention to details and organization\r\n\u2022 At least basic knowledge in BASH, SSH\r\n\r\n\r\nNice-to-Have Skills:\r\n\u2022 Practical knowledge of using Selenium\r\n\u2022 Understanding of the Embedded systems testing\r\n\u2022 Practical knowledge of WEB HMI / HTML5 testing\r\n\u2022 Experience working in CMMI, ASPICE process environment\r\n\u2022 Practical knowledge of V-Model of development and Automotive standards, e.g. ASPICE\r\n\u2022 Practical knowledge of In-Vehicle and communication interfaces, e.g. CAN, FlexRay\r\n\u2022 Participation and/or completion in testing certification programs (ISTQB, ISEB or tool specific certifications).\r\nLanguages:\r\nEnglish: B2 Upper Intermediate",
+      "category": {
+        "id": "qa",
+        "name": "QA Manual"
+      },
+      "location": "Kyiv",
+      "experience": 2,
+      "english": {
+        "id": "upper",
+        "name": "Upper Intermediate"
+      },
+      "domain": "",
+      "published": "2020-12-07T17:40:06.690532",
+      "recruiter": {
+        "employer_website": "https://www.luxoft.ru",
+        "picture_url": "https://p.djinni.co/fa/1322eb2246ad674f7eaf59cabf9ea4/betman_200.jpg",
+        "linkedin_headline": "Researcher at Luxoft",
+        "name": "Halyna Taranenko",
+        "employer_about": "Luxoft is a high-end application outsourcing provider of choice and a trusted technology advisor to Global 2000 and medium-sized growth companies that apply compelling technologies to obtain leadership positions in their respective markets. \r\nLuxoft today finds the Best talents, proposes career growth & employment benefits. Our teams are involved in high complicity & innovative projects for the Top leaders companies around the Globe.",
+        "position": "Researcher",
+        "public_url": "/r/68243-researcher-at-luxoft/",
+        "badge": "",
+        "id": 68243,
+        "company_name": "Luxoft"
+      },
+      "is_online": true,
+      "dou_link": "https://jobs.dou.ua/companies/luxoft/",
+      "is_favorite": false,
+      "has_seen": false,
+      "has_applied": false,
+      "messagethread_url": "",
+      "views_count": 0,
+      "applications_count": 0
+    },
+    {
+      "id": 104599,
+      "title": "Full-stack developer",
+      "slug": "104599-full-stack-developer",
+      "company_name": "Matrix42",
+      "short_description": "Matrix42 is one of the leading software vendors for workspace management solutions. Matrix42 provides future proven \u201cSmarter Workspace \u2014 Better Life\u201d solutions for state of the art workplaces.\r\nWe are looking for .NET Developer to join Kyiv team on a full-time basis.",
+      "long_description": "Matrix42 is one of the leading software vendors for workspace management solutions. Matrix42 provides future proven \u201cSmarter Workspace \u2014 Better Life\u201d solutions for state of the art workplaces.\r\nWe are looking for .NET Developer to join Kyiv team on a full-time basis.\r\n\r\nResponsibilities:\r\nWrite clean, scalable code, remain up to date with concepts and best practices\r\nCreate new features; revise, update, refactor existing code\r\nDevelop technical specifications, design documentation and architecture\r\nParticipate in requirements analysis; assist POs, PMs in defining requirements and explain the capabilities and limitations of various systems\r\nTest and deploy developed code, providing technical support\r\nCoordinate with other software professionals and developers\r\n\r\nMust:\r\n3+ years of development experience, .NET, C#, SQL Server\r\nFamiliar with the ASP.NET framework, design/architectural patterns (at least MV\r\nExperience in SQL Server\r\nKnowledge of Javascript/Typescript, HTML5/CSS3, JQuery, JSON, XML, AJAX\r\nFamiliarity with architecture styles/APIs (REST, RPC)\r\nStrong understanding of source control repositories and the workflows (TFS, Azure DevOps);\r\nUnderstanding of Agile methodologies\r\nExcellent troubleshooting and communication skills, attention to detail\r\nMSc degree in SW engineering or similar\r\nGood spoken and written English.\r\n\r\nNice to have:\r\nWPF/WCF/WWF\r\nLinux/Unix\r\nUnderstanding of .Net Core architecture, microservices\r\nWeb API/RESTful server development using ASP.NET core\r\nExperience with virtualization technologies (Docker)\r\nUnderstanding of Microsoft Azure\r\nUnderstanding of the Angular architecture\r\nUnit testing frameworks\r\n\r\nWhat\u2019s in for your?\r\nHighly competitive compensation\r\nLong-term employment\r\nAttractive benefits package\r\n\u2014 paid sick leave\r\n\u2014 vacations (25 working days)\r\n\u2014 Medical Insurance\r\nParticipation in development of exciting and challenging solutions\r\nJust refurbished office in downtown Kiev or remote work modal\r\nProfessional training which meets company needs\r\nRegular company events locally and abroad\r\nCasual, positive and open work environment",
+      "category": {
+        "id": ".net",
+        "name": "C# / .NET"
+      },
+      "location": 1,
+      "experience": 3,
+      "english": {
+        "id": "intermediate",
+        "name": "Intermediate"
+      },
+      "domain": "",
+      "published": "2020-12-07T17:40:00.192840",
+      "recruiter": {
+        "employer_website": "https://www.matrix42.com/en/",
+        "picture_url": "https://p.djinni.co/05477f778b/200.jpg",
+        "linkedin_headline": "HR Generalist at Matrix42",
+        "name": "\u042e\u043b\u0438\u044f \u0411\u043e\u0440\u043e\u0434\u0430\u0442\u043e\u0432\u0430",
+        "employer_about": "About Matrix42\r\nRecognized by Gartner as a unique, visionary vendor, Matrix42 delivers and manages future-ready, self-service digital workspaces that meet the needs of today\u2019s location-independent workforce. It achieves this with a complete, centralized and automated solution that provides authenticated access to workspaces across aggregated physical, virtual and mobile environments.\r\nAdvantages for executives\r\nBusiness managers benefit from: an easier way to ensure software compliance; complete transparency over software deployment approval and license costs; a comprehensive overview of workspace infrastructure and the status of its components; and the ability to manage workspaces as an automated business process.\r\nAdvantages for IT managers\r\nIT managers benefit from faster and simpler software distribution, support, management and maintenance. They use Matrix42\u2019s products and solutions to become IT service providers, delivering role-specific workspaces to end user customers through extensive automation and consistent, self-service interfaces.\r\nAdvantages for users\r\nEnd-users are empowered with authenticated, self-service access to an individualized workspace on any device, featuring the specific portfolio of applications they need to perform effectively.\r\nUltimately, the value of Matrix42 products and solutions can be measured in lower operational IT costs, greater software license efficiency, reduced IT admin workloads, simplified compliance fulfillment and happier, more productive employees.\r\nThat\u2019s why over 3,000 organizations including BMW, Infineon and Carl Zeiss rely on Matrix42 every day.",
+        "position": "HR Generalist",
+        "public_url": "/r/25776-hr-generalist-at-matrix42/",
+        "badge": "verified",
+        "id": 25776,
+        "company_name": "Matrix42"
+      },
+      "is_online": true,
+      "dou_link": "https://jobs.dou.ua/companies/matrix42/",
+      "is_favorite": false,
+      "has_seen": false,
+      "has_applied": false,
+      "messagethread_url": "",
+      "views_count": 0,
+      "applications_count": 0
+    },
+    {
+      "title": "QA\u00a0Engineer",
+      "slug": "148346-qa-engineer",
+      "company_name": "Matrix42",
+      "short_description": "Matrix42 is one of the leading software vendors for workspace management solutions. Matrix42 provides future proven \u2019Smarter Workspace \u2014 Better Life\u2019\u2019 solutions for state of the art workplaces. For our office in Kiev we are looking for QA Engineer.",
+      "long_description": "MATRIX42 is a worldwide software producer for the IT System and Service Management, that offers an integrated range of products for medium to large enterprises, with its head quarter in Germany, is looking for an Senior QA Engineer to fill a long-term vacancy in the Kiev office*.\r\n*Matrix42 Ukraine is presented for 10+ years and is a stable, product-oriented company (not projects).\r\n\r\nTechnical Skills\r\n\r\nGood knowledge of different kinds of testing\r\nStrong software and web application testing experience\r\n3+ years Experience in Test Automation testing using Selenium WebDriver or Protractor frameworks\r\n3+ Experience with JavaScript and Powershell scripting languages\r\nExperience with bug tracking and test management tools\r\n\r\nSoft Skills\r\n\r\nStrong product quality orientation\r\nAnalytical and problem-understanding thinking\r\nSelf-motivating and team-playing attitude\r\nGood English in speech and writing\r\nHigher technical education or other relevant experience\r\n\r\n\u0411\u0443\u0434\u0435\u0442 \u043f\u043b\u044e\u0441\u043e\u043c\r\nAs a plus\r\n\r\nDevOps (bash and CI maintaining)\r\nKnowledge of Web services and API testing (REST)\r\nSecurity, Performance testing\r\nExperience with Visual Studio Team Services (VSTS)\r\nKnowledge of development processes\r\nExperience with agile methodologies, especially Scrum\r\nExperience with business applications or business management topics\r\nKnowledge and experience with any CI system\r\n\r\n\u041f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u043c\r\nWe offer\r\n\r\nHighly Competitive compensation (depends on the candidate level)\r\nLong-term employment\r\nAttractive benefits package\r\nPaid sick leave\r\nvacations (25 working days)\r\nMedical Insurance\r\nParticipation in development of exciting and challenging solutions\r\nOffice in downtown Kiev or remote working modal \r\nProfessional training which meets company needs\r\nFree coffee, tea, juice, snacks\r\nRegular company events locally and abroad\r\n\r\nResponsibilities\r\n\r\nCreating test strategies and test cases for end-to-end feature testing\r\nTesting of the customer problems and hotfixes\r\nImproving test automation framework\r\nMaintaining existing test environment\r\nRoot causes analysis of failed tests",
+      "category": {
+        "id": "qa_automation",
+        "name": "QA Automation"
+      },
+      "location": "Kyiv",
+      "experience": 3,
+      "english": {
+        "id": "upper",
+        "name": "Upper Intermediate"
+      },
+      "domain": "",
+      "published": "2020-12-07T17:39:56.448592",
+      "recruiter": {
+        "employer_website": "https://www.matrix42.com/en/",
+        "picture_url": "https://p.djinni.co/05477f778b/200.jpg",
+        "linkedin_headline": "HR Generalist at Matrix42",
+        "name": "\u042e\u043b\u0438\u044f \u0411\u043e\u0440\u043e\u0434\u0430\u0442\u043e\u0432\u0430",
+        "employer_about": "About Matrix42\r\nRecognized by Gartner as a unique, visionary vendor, Matrix42 delivers and manages future-ready, self-service digital workspaces that meet the needs of today\u2019s location-independent workforce. It achieves this with a complete, centralized and automated solution that provides authenticated access to workspaces across aggregated physical, virtual and mobile environments.\r\nAdvantages for executives\r\nBusiness managers benefit from: an easier way to ensure software compliance; complete transparency over software deployment approval and license costs; a comprehensive overview of workspace infrastructure and the status of its components; and the ability to manage workspaces as an automated business process.\r\nAdvantages for IT managers\r\nIT managers benefit from faster and simpler software distribution, support, management and maintenance. They use Matrix42\u2019s products and solutions to become IT service providers, delivering role-specific workspaces to end user customers through extensive automation and consistent, self-service interfaces.\r\nAdvantages for users\r\nEnd-users are empowered with authenticated, self-service access to an individualized workspace on any device, featuring the specific portfolio of applications they need to perform effectively.\r\nUltimately, the value of Matrix42 products and solutions can be measured in lower operational IT costs, greater software license efficiency, reduced IT admin workloads, simplified compliance fulfillment and happier, more productive employees.\r\nThat\u2019s why over 3,000 organizations including BMW, Infineon and Carl Zeiss rely on Matrix42 every day.",
+        "position": "HR Generalist",
+        "public_url": "/r/25776-hr-generalist-at-matrix42/",
+        "badge": "verified",
+        "id": 25776,
+        "company_name": "Matrix42"
+      },
+      "is_online": true,
+      "is_favorite": false,
+      "has_seen": false,
+      "has_applied": false,
+      "messagethread_url": "",
+      "views_count": 0,
+      "applications_count": 0
+    },
+    {
+      "id": 150822,
+      "title": "Automation QA\u00a0Engineer (Java)",
+      "slug": "150822-automation-qa-engineer-java-",
+      "company_name": "Matrix42",
+      "short_description": "MATRIX42 is a worldwide software producer for the IT System and Service Management, that offers an integrated range of products for medium to large enterprises, with its head quarter in Germany, is looking for an Automation QA Engineer to fill a long-term vacancy in the Kiev office.",
+      "long_description": "MATRIX42 is a worldwide software producer for the IT System and Service Management, that offers an integrated range of products for medium to large enterprises, with its head quarter in Germany, is looking for an Automation QA Engineer to fill a long-term vacancy in the Kiev office.\r\n\r\nResponsibilities:\r\nCreating test strategies and test cases for end-to-end feature testing\r\nTesting of the customer problems and hotfixes\r\nImproving test automation framework\r\nMaintaining existing test environment\r\nRoot causes analysis of failed tests\r\n\r\nMust:\r\n\r\nJava 8/11\r\nRabbitMQ\u202fmessaging (Kafka would be a plus)\r\nMongoDB (experience with sharding would be a plus)\r\nREST API (and some SOAP)\r\nGood knowledge of different kinds of testing\r\nWeb application testing experience\r\nExperience with bug tracking and test management tools\r\nBSc/MSc degree in\u202fSW engineering or\u202fsimilar\r\nGood spoken and written English\r\n\r\nNice to have:\r\n\r\nSelenium WebDriver or Protractor frameworks\r\nJavaScript and Powershell scripting languages\r\nExperience with virtualization technologies (VMware, Hyper-V, Docker)\r\nUnit testing frameworks\r\nAgile/Scrum\r\nTFS, Azure DevOps\r\nDevOps fundamentals\r\n\r\nWhat\u2019s in\u202ffor your?\r\n\r\n\u0421ompetitive compensation\r\nLong-term employment\r\nAttractive benefits package\r\nPaid sick leave\r\nVacations (25\u202fworking days)\r\nMedical insurance\r\nParticipation in\u202fdevelopment of\u202fexciting and challenging solutions\r\nOffice in\u202fdowntown Kiev or\u202fremote work modal\r\nProfessional training which meets company needs\r\nRegular company events locally and abroad\r\nCasual, positive and open work environment",
+      "category": {
+        "id": "qa_automation",
+        "name": "QA Automation"
+      },
+      "location": "Kyiv",
+      "experience": 3,
+      "english": {
+        "id": "upper",
+        "name": "Upper Intermediate"
+      },
+      "domain": "",
+      "published": "2020-12-07T17:39:49.303632",
+      "recruiter": {
+        "employer_website": "https://www.matrix42.com/en/",
+        "picture_url": "https://p.djinni.co/05477f778b/200.jpg",
+        "linkedin_headline": "HR Generalist at Matrix42",
+        "name": "\u042e\u043b\u0438\u044f \u0411\u043e\u0440\u043e\u0434\u0430\u0442\u043e\u0432\u0430",
+        "employer_about": "About Matrix42\r\nRecognized by Gartner as a unique, visionary vendor, Matrix42 delivers and manages future-ready, self-service digital workspaces that meet the needs of today\u2019s location-independent workforce. It achieves this with a complete, centralized and automated solution that provides authenticated access to workspaces across aggregated physical, virtual and mobile environments.\r\nAdvantages for executives\r\nBusiness managers benefit from: an easier way to ensure software compliance; complete transparency over software deployment approval and license costs; a comprehensive overview of workspace infrastructure and the status of its components; and the ability to manage workspaces as an automated business process.\r\nAdvantages for IT managers\r\nIT managers benefit from faster and simpler software distribution, support, management and maintenance. They use Matrix42\u2019s products and solutions to become IT service providers, delivering role-specific workspaces to end user customers through extensive automation and consistent, self-service interfaces.\r\nAdvantages for users\r\nEnd-users are empowered with authenticated, self-service access to an individualized workspace on any device, featuring the specific portfolio of applications they need to perform effectively.\r\nUltimately, the value of Matrix42 products and solutions can be measured in lower operational IT costs, greater software license efficiency, reduced IT admin workloads, simplified compliance fulfillment and happier, more productive employees.\r\nThat\u2019s why over 3,000 organizations including BMW, Infineon and Carl Zeiss rely on Matrix42 every day.",
+        "position": "HR Generalist",
+        "public_url": "/r/25776-hr-generalist-at-matrix42/",
+        "badge": "verified",
+        "id": 25776,
+        "company_name": "Matrix42"
+      },
+      "is_online": true,
+      "dou_link": "https://jobs.dou.ua/companies/matrix42/",
+      "is_favorite": false,
+      "has_seen": false,
+      "has_applied": false,
+      "messagethread_url": "",
+      "views_count": 0,
+      "applications_count": 0
+    },
+    {
+      "title": "Java Developer",
+      "slug": "163666-java-developer",
+      "company_name": "Matrix42",
+      "short_description": "Matrix42 is one of the leading software vendors for workspace management solutions. Matrix42 provides future proven \u201cSmarter Workspace \u2014 Better Life\u201d solutions for state of the art workplaces.\r\n\r\nWe are looking for JAVA Developer to join Kyiv team on a full-time basis.",
+      "long_description": "Matrix42 is one of the leading software vendors for workspace management solutions. Matrix42 provides future proven \u201cSmarter Workspace \u2014 Better Life\u201d solutions for state of the art workplaces.\r\n\r\nWe are looking for JAVA Developer to join Kyiv team on a full-time basis.\r\n\r\n\r\nResponsibilities: \r\n\r\nWrite clean, scalable code, remain up\u202fto\u202fdate with concepts and best practices \r\nCreate new features; revise, update, refactor existing code \r\nDevelop technical specifications, design documentation and architecture \r\nParticipate in\u202frequirements analysis; assist POs in\u202fdefining requirements and explain the capabilities and limitations of\u202fvarious systems \r\nTest and deploy developed code, providing technical support \r\nCoordinate with other software professionals and developers \r\n\r\nMust: \r\n\r\nJava 8/11; Spring (Data/Integration/Boot/etc.)  \r\nRabbitMQ\u202fmessaging (Kafka would be a plus)  \r\nMongoDB (experience with sharding would be a plus)  \r\nREST API (and some SOAP)  \r\nDesign Patterns (Enterprise Integration Patterns, GoF, microservices, etc.)  \r\nGit (GitLab)  \r\nSpring STS (IDE)  \r\nExperience developing large-scale enterprise applications  \r\nExperience integrating with other products and APIs \r\nExcellent troubleshooting and communication skills, attention to\u202fdetail \r\nLooking for someone with a great attitude, works well with others, and thrives in a startup type environment  \r\nBSc/MSc degree in\u202fSW engineering or\u202fsimilar \r\nGood spoken and written English \r\n \r\n\r\nNice to have: \r\n\r\nExperience with virtualization technologies (VMware, Hyper-V, Docker) \r\nUnit testing frameworks \r\nAgile/Scrum \r\nTFS, Azure DevOps \r\nDevOps fundamentals  \r\n \r\n\r\nWhat\u2019s in\u202ffor your? \r\n\r\n\u0421ompetitive compensation \r\nLong-term employment \r\nAttractive benefits package\r\nPaid sick leave \r\nVacations (25\u202fworking days) \r\nMedical insurance \r\nParticipation in\u202fdevelopment of\u202fexciting and challenging solutions \r\nOffice in\u202fdowntown Kiev or\u202fremote work modal \r\nProfessional training which meets company needs \r\nRegular company events locally and abroad \r\nCasual, positive and open work environment",
+      "category": {
+        "id": "java",
+        "name": "Java"
+      },
+      "location": "Kyiv",
+      "experience": 3,
+      "english": {
+        "id": "intermediate",
+        "name": "Intermediate"
+      },
+      "domain": "",
+      "published": "2020-12-07T17:39:40.756111",
+      "recruiter": {
+        "employer_website": "https://www.matrix42.com/en/",
+        "picture_url": "https://p.djinni.co/05477f778b/200.jpg",
+        "linkedin_headline": "HR Generalist at Matrix42",
+        "name": "\u042e\u043b\u0438\u044f \u0411\u043e\u0440\u043e\u0434\u0430\u0442\u043e\u0432\u0430",
+        "employer_about": "About Matrix42\r\nRecognized by Gartner as a unique, visionary vendor, Matrix42 delivers and manages future-ready, self-service digital workspaces that meet the needs of today\u2019s location-independent workforce. It achieves this with a complete, centralized and automated solution that provides authenticated access to workspaces across aggregated physical, virtual and mobile environments.\r\nAdvantages for executives\r\nBusiness managers benefit from: an easier way to ensure software compliance; complete transparency over software deployment approval and license costs; a comprehensive overview of workspace infrastructure and the status of its components; and the ability to manage workspaces as an automated business process.\r\nAdvantages for IT managers\r\nIT managers benefit from faster and simpler software distribution, support, management and maintenance. They use Matrix42\u2019s products and solutions to become IT service providers, delivering role-specific workspaces to end user customers through extensive automation and consistent, self-service interfaces.\r\nAdvantages for users\r\nEnd-users are empowered with authenticated, self-service access to an individualized workspace on any device, featuring the specific portfolio of applications they need to perform effectively.\r\nUltimately, the value of Matrix42 products and solutions can be measured in lower operational IT costs, greater software license efficiency, reduced IT admin workloads, simplified compliance fulfillment and happier, more productive employees.\r\nThat\u2019s why over 3,000 organizations including BMW, Infineon and Carl Zeiss rely on Matrix42 every day.",
+        "position": "HR Generalist",
+        "public_url": "/r/25776-hr-generalist-at-matrix42/",
+        "badge": "verified",
+        "id": 25776,
+        "company_name": "Matrix42"
+      },
+      "is_online": true,
+      "dou_link": "https://jobs.dou.ua/companies/matrix42/",
+      "is_favorite": false,
+      "has_seen": false,
+      "has_applied": false,
+      "messagethread_url": "",
+      "views_count": 0,
+      "applications_count": 0
+    },
+   
+    {
+      "id": 163667,
+      "title": "Automation QA\u00a0Engineer (Java)",
+      "slug": "163667-automation-qa-engineer-java-",
+      "company_name": "Matrix42",
+      "short_description": "MATRIX42 is a worldwide software producer for the IT System and Service Management, that offers an integrated range of products for medium to large enterprises, with its head quarter in Germany, is looking for an Automation QA Engineer to fill a long-term vacancy in the Kiev office.",
+      "long_description": "MATRIX42 is a worldwide software producer for the IT System and Service Management, that offers an integrated range of products for medium to large enterprises, with its head quarter in Germany, is looking for an Automation QA Engineer to fill a long-term vacancy in the Kiev office.\r\n\r\nResponsibilities:\r\nCreating test strategies and test cases for end-to-end feature testing\r\nTesting of the customer problems and hotfixes\r\nImproving test automation framework\r\nMaintaining existing test environment\r\nRoot causes analysis of failed tests\r\n\r\nMust:\r\n\r\nJava 8/11\r\nRabbitMQ\u202fmessaging (Kafka would be a plus)\r\nMongoDB (experience with sharding would be a plus)\r\nREST API (and some SOAP)\r\nGood knowledge of different kinds of testing\r\nWeb application testing experience\r\nExperience with bug tracking and test management tools\r\nBSc/MSc degree in\u202fSW engineering or\u202fsimilar\r\nGood spoken and written English\r\n\r\nNice to have:\r\n\r\nSelenium WebDriver or Protractor frameworks\r\nJavaScript and Powershell scripting languages\r\nExperience with virtualization technologies (VMware, Hyper-V, Docker)\r\nUnit testing frameworks\r\nAgile/Scrum\r\nTFS, Azure DevOps\r\nDevOps fundamentals\r\n\r\nWhat\u2019s in\u202ffor your?\r\n\r\n\u0421ompetitive compensation\r\nLong-term employment\r\nAttractive benefits package\r\nPaid sick leave\r\nVacations (25\u202fworking days)\r\nMedical insurance\r\nParticipation in\u202fdevelopment of\u202fexciting and challenging solutions\r\nOffice in\u202fdowntown Kiev or\u202fremote work modal\r\nProfessional training which meets company needs\r\nRegular company events locally and abroad\r\nCasual, positive and open work environment",
+      "category": {
+        "id": "qa_automation",
+        "name": "QA Automation"
+      },
+      "location": "Kyiv",
+      "experience": 3,
+      "english": {
+        "id": "upper",
+        "name": "Upper Intermediate"
+      },
+      "domain": "",
+      "published": "2020-12-07T17:39:29.008717",
+      "recruiter": {
+        "employer_website": "https://www.matrix42.com/en/",
+        "picture_url": "https://p.djinni.co/05477f778b/200.jpg",
+        "linkedin_headline": "HR Generalist at Matrix42",
+        "name": "\u042e\u043b\u0438\u044f \u0411\u043e\u0440\u043e\u0434\u0430\u0442\u043e\u0432\u0430",
+        "employer_about": "About Matrix42\r\nRecognized by Gartner as a unique, visionary vendor, Matrix42 delivers and manages future-ready, self-service digital workspaces that meet the needs of today\u2019s location-independent workforce. It achieves this with a complete, centralized and automated solution that provides authenticated access to workspaces across aggregated physical, virtual and mobile environments.\r\nAdvantages for executives\r\nBusiness managers benefit from: an easier way to ensure software compliance; complete transparency over software deployment approval and license costs; a comprehensive overview of workspace infrastructure and the status of its components; and the ability to manage workspaces as an automated business process.\r\nAdvantages for IT managers\r\nIT managers benefit from faster and simpler software distribution, support, management and maintenance. They use Matrix42\u2019s products and solutions to become IT service providers, delivering role-specific workspaces to end user customers through extensive automation and consistent, self-service interfaces.\r\nAdvantages for users\r\nEnd-users are empowered with authenticated, self-service access to an individualized workspace on any device, featuring the specific portfolio of applications they need to perform effectively.\r\nUltimately, the value of Matrix42 products and solutions can be measured in lower operational IT costs, greater software license efficiency, reduced IT admin workloads, simplified compliance fulfillment and happier, more productive employees.\r\nThat\u2019s why over 3,000 organizations including BMW, Infineon and Carl Zeiss rely on Matrix42 every day.",
+        "position": "HR Generalist",
+        "public_url": "/r/25776-hr-generalist-at-matrix42/",
+        "badge": "verified",
+        "id": 25776,
+        "company_name": "Matrix42"
+      },
+      "is_online": true,
+      "dou_link": "https://jobs.dou.ua/companies/matrix42/",
+      "is_favorite": false,
+      "has_seen": false,
+      "has_applied": false,
+      "messagethread_url": "",
+      "views_count": 0,
+      "applications_count": 0
+    },
+    {
+      "id": 163671,
+      "title": "QA\u00a0Engineer",
+      "slug": "163671-qa-engineer",
+      "company_name": "Matrix42",
+      "short_description": "Matrix42 is one of the leading software vendors for workspace management solutions. Matrix42 provides future proven \u2019Smarter Workspace \u2014 Better Life\u2019\u2019 solutions for state of the art workplaces. For our office in Kiev we are looking for QA Engineer.",
+      "long_description": "MATRIX42 is a worldwide software producer for the IT System and Service Management, that offers an integrated range of products for medium to large enterprises, with its head quarter in Germany, is looking for an Senior QA Engineer to fill a long-term vacancy in the Kiev office*.\r\n*Matrix42 Ukraine is presented for 10+ years and is a stable, product-oriented company (not projects).\r\n\r\nTechnical Skills\r\n\r\nGood knowledge of different kinds of testing\r\nStrong software and web application testing experience\r\n3+ years Experience in Test Automation testing using Selenium WebDriver or Protractor frameworks\r\n3+ Experience with JavaScript and Powershell scripting languages\r\nExperience with bug tracking and test management tools\r\n\r\nSoft Skills\r\n\r\nStrong product quality orientation\r\nAnalytical and problem-understanding thinking\r\nSelf-motivating and team-playing attitude\r\nGood English in speech and writing\r\nHigher technical education or other relevant experience\r\n\r\n\u0411\u0443\u0434\u0435\u0442 \u043f\u043b\u044e\u0441\u043e\u043c\r\nAs a plus\r\n\r\nDevOps (bash and CI maintaining)\r\nKnowledge of Web services and API testing (REST)\r\nSecurity, Performance testing\r\nExperience with Visual Studio Team Services (VSTS)\r\nKnowledge of development processes\r\nExperience with agile methodologies, especially Scrum\r\nExperience with business applications or business management topics\r\nKnowledge and experience with any CI system\r\n\r\n\u041f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u043c\r\nWe offer\r\n\r\nHighly Competitive compensation (depends on the candidate level)\r\nLong-term employment\r\nAttractive benefits package\r\nPaid sick leave\r\nvacations (25 working days)\r\nMedical Insurance\r\nParticipation in development of exciting and challenging solutions\r\nOffice in downtown Kiev or remote working modal \r\nProfessional training which meets company needs\r\nFree coffee, tea, juice, snacks\r\nRegular company events locally and abroad\r\n\r\nResponsibilities\r\n\r\nCreating test strategies and test cases for end-to-end feature testing\r\nTesting of the customer problems and hotfixes\r\nImproving test automation framework\r\nMaintaining existing test environment\r\nRoot causes analysis of failed tests",
+      "category": {
+        "id": "qa_automation",
+        "name": "QA Automation"
+      },
+      "location": "Kyiv",
+      "experience": 3,
+      "english": {
+        "id": "upper",
+        "name": "Upper Intermediate"
+      },
+      "domain": "",
+      "published": "2020-12-07T17:39:24.712763",
+      "recruiter": {
+        "employer_website": "https://www.matrix42.com/en/",
+        "picture_url": "https://p.djinni.co/05477f778b/200.jpg",
+        "linkedin_headline": "HR Generalist at Matrix42",
+        "name": "\u042e\u043b\u0438\u044f \u0411\u043e\u0440\u043e\u0434\u0430\u0442\u043e\u0432\u0430",
+        "employer_about": "About Matrix42\r\nRecognized by Gartner as a unique, visionary vendor, Matrix42 delivers and manages future-ready, self-service digital workspaces that meet the needs of today\u2019s location-independent workforce. It achieves this with a complete, centralized and automated solution that provides authenticated access to workspaces across aggregated physical, virtual and mobile environments.\r\nAdvantages for executives\r\nBusiness managers benefit from: an easier way to ensure software compliance; complete transparency over software deployment approval and license costs; a comprehensive overview of workspace infrastructure and the status of its components; and the ability to manage workspaces as an automated business process.\r\nAdvantages for IT managers\r\nIT managers benefit from faster and simpler software distribution, support, management and maintenance. They use Matrix42\u2019s products and solutions to become IT service providers, delivering role-specific workspaces to end user customers through extensive automation and consistent, self-service interfaces.\r\nAdvantages for users\r\nEnd-users are empowered with authenticated, self-service access to an individualized workspace on any device, featuring the specific portfolio of applications they need to perform effectively.\r\nUltimately, the value of Matrix42 products and solutions can be measured in lower operational IT costs, greater software license efficiency, reduced IT admin workloads, simplified compliance fulfillment and happier, more productive employees.\r\nThat\u2019s why over 3,000 organizations including BMW, Infineon and Carl Zeiss rely on Matrix42 every day.",
+        "position": "HR Generalist",
+        "public_url": "/r/25776-hr-generalist-at-matrix42/",
+        "badge": "verified",
+        "id": 25776,
+        "company_name": "Matrix42"
+      },
+      "is_online": true,
+      "dou_link": "https://jobs.dou.ua/companies/matrix42/",
+      "is_favorite": false,
+      "has_seen": false,
+      "has_applied": false,
+      "messagethread_url": "",
+      "views_count": 0,
+      "applications_count": 0
+    },
+    {
+      "id": 163672,
+      "title": ".net developer",
+      "slug": "163672--net-developer",
+      "company_name": "Matrix42",
+      "short_description": "Matrix42 is one of the leading software vendors for workspace management solutions. Matrix42 provides future proven \u201cSmarter Workspace \u2014 Better Life\u201d solutions for state of the art workplaces.\r\nWe are looking for .NET Developer to join Kyiv team on a full-time basis.",
+      "long_description": "Matrix42 is one of the leading software vendors for workspace management solutions. Matrix42 provides future proven \u201cSmarter Workspace \u2014 Better Life\u201d solutions for state of the art workplaces.\r\nWe are looking for .NET Developer to join Kyiv team on a full-time basis.\r\n\r\nResponsibilities:\r\nWrite clean, scalable code, remain up to date with concepts and best practices\r\nCreate new features; revise, update, refactor existing code\r\nDevelop technical specifications, design documentation and architecture\r\nParticipate in requirements analysis; assist POs, PMs in defining requirements and explain the capabilities and limitations of various systems\r\nTest and deploy developed code, providing technical support\r\nCoordinate with other software professionals and developers\r\n\r\nMust:\r\n3+ years of development experience, .NET, C#, SQL Server\r\nFamiliar with the ASP.NET framework, design/architectural patterns (at least MV\r\nExperience in SQL Server\r\nKnowledge of Javascript/Typescript, HTML5/CSS3, JQuery, JSON, XML, AJAX\r\nFamiliarity with architecture styles/APIs (REST, RPC)\r\nStrong understanding of source control repositories and the workflows (TFS, Azure DevOps);\r\nUnderstanding of Agile methodologies\r\nExcellent troubleshooting and communication skills, attention to detail\r\nMSc degree in SW engineering or similar\r\nGood spoken and written English.\r\n\r\nNice to have:\r\nWPF/WCF/WWF\r\nLinux/Unix\r\nUnderstanding of .Net Core architecture, microservices\r\nWeb API/RESTful server development using ASP.NET core\r\nExperience with virtualization technologies (Docker)\r\nUnderstanding of Microsoft Azure\r\nUnderstanding of the Angular architecture\r\nUnit testing frameworks\r\n\r\nWhat\u2019s in for your?\r\nHighly competitive compensation\r\nLong-term employment\r\nAttractive benefits package\r\n\u2014 paid sick leave\r\n\u2014 vacations (25 working days)\r\n\u2014 Medical Insurance\r\nParticipation in development of exciting and challenging solutions\r\nJust refurbished office in downtown Kiev or remote work modal\r\nProfessional training which meets company needs\r\nRegular company events locally and abroad\r\nCasual, positive and open work environment",
+      "category": {
+        "id": ".net",
+        "name": "C# / .NET"
+      },
+      "location": "Kyiv",
+      "experience": 3,
+      "english": {
+        "id": "intermediate",
+        "name": "Intermediate"
+      },
+      "domain": "",
+      "published": "2020-12-07T17:39:21.793984",
+      "recruiter": {
+        "employer_website": "https://www.matrix42.com/en/",
+        "picture_url": "https://p.djinni.co/05477f778b/200.jpg",
+        "linkedin_headline": "HR Generalist at Matrix42",
+        "name": "\u042e\u043b\u0438\u044f \u0411\u043e\u0440\u043e\u0434\u0430\u0442\u043e\u0432\u0430",
+        "employer_about": "About Matrix42\r\nRecognized by Gartner as a unique, visionary vendor, Matrix42 delivers and manages future-ready, self-service digital workspaces that meet the needs of today\u2019s location-independent workforce. It achieves this with a complete, centralized and automated solution that provides authenticated access to workspaces across aggregated physical, virtual and mobile environments.\r\nAdvantages for executives\r\nBusiness managers benefit from: an easier way to ensure software compliance; complete transparency over software deployment approval and license costs; a comprehensive overview of workspace infrastructure and the status of its components; and the ability to manage workspaces as an automated business process.\r\nAdvantages for IT managers\r\nIT managers benefit from faster and simpler software distribution, support, management and maintenance. They use Matrix42\u2019s products and solutions to become IT service providers, delivering role-specific workspaces to end user customers through extensive automation and consistent, self-service interfaces.\r\nAdvantages for users\r\nEnd-users are empowered with authenticated, self-service access to an individualized workspace on any device, featuring the specific portfolio of applications they need to perform effectively.\r\nUltimately, the value of Matrix42 products and solutions can be measured in lower operational IT costs, greater software license efficiency, reduced IT admin workloads, simplified compliance fulfillment and happier, more productive employees.\r\nThat\u2019s why over 3,000 organizations including BMW, Infineon and Carl Zeiss rely on Matrix42 every day.",
+        "position": "HR Generalist",
+        "public_url": "/r/25776-hr-generalist-at-matrix42/",
+        "badge": "verified",
+        "id": 25776,
+        "company_name": "Matrix42"
+      },
+      "is_online": true,
+      "dou_link": "https://jobs.dou.ua/companies/matrix42/",
+      "is_favorite": false,
+      "has_seen": false,
+      "has_applied": false,
+      "messagethread_url": "",
+      "views_count": 0,
+      "applications_count": 0
+    },
+    {
+      "id": 150817,
+      "title": "Java Developer",
+      "slug": "150817-java-developer",
+      "company_name": "Matrix42",
+      "short_description": "Matrix42 is one of the leading software vendors for workspace management solutions. Matrix42 provides future proven \u201cSmarter Workspace \u2014 Better Life\u201d solutions for state of the art workplaces.\r\n\r\nWe are looking for JAVA Developer to join Kyiv team on a full-time basis.",
+      "long_description": "Matrix42 is one of the leading software vendors for workspace management solutions. Matrix42 provides future proven \u201cSmarter Workspace \u2014 Better Life\u201d solutions for state of the art workplaces.\r\n\r\nWe are looking for JAVA Developer to join Kyiv team on a full-time basis.\r\n\r\n\r\nResponsibilities: \r\n\r\nWrite clean, scalable code, remain up\u202fto\u202fdate with concepts and best practices \r\nCreate new features; revise, update, refactor existing code \r\nDevelop technical specifications, design documentation and architecture \r\nParticipate in\u202frequirements analysis; assist POs in\u202fdefining requirements and explain the capabilities and limitations of\u202fvarious systems \r\nTest and deploy developed code, providing technical support \r\nCoordinate with other software professionals and developers \r\n\r\nMust: \r\n\r\nJava 8/11; Spring (Data/Integration/Boot/etc.)  \r\nRabbitMQ\u202fmessaging (Kafka would be a plus)  \r\nMongoDB (experience with sharding would be a plus)  \r\nREST API (and some SOAP)  \r\nDesign Patterns (Enterprise Integration Patterns, GoF, microservices, etc.)  \r\nGit (GitLab)  \r\nSpring STS (IDE)  \r\nExperience developing large-scale enterprise applications  \r\nExperience integrating with other products and APIs \r\nExcellent troubleshooting and communication skills, attention to\u202fdetail \r\nLooking for someone with a great attitude, works well with others, and thrives in a startup type environment  \r\nBSc/MSc degree in\u202fSW engineering or\u202fsimilar \r\nGood spoken and written English \r\n \r\n\r\nNice to have: \r\n\r\nExperience with virtualization technologies (VMware, Hyper-V, Docker) \r\nUnit testing frameworks \r\nAgile/Scrum \r\nTFS, Azure DevOps \r\nDevOps fundamentals  \r\n \r\n\r\nWhat\u2019s in\u202ffor your? \r\n\r\n\u0421ompetitive compensation \r\nLong-term employment \r\nAttractive benefits package\r\nPaid sick leave \r\nVacations (25\u202fworking days) \r\nMedical insurance \r\nParticipation in\u202fdevelopment of\u202fexciting and challenging solutions \r\nOffice in\u202fdowntown Kiev or\u202fremote work modal \r\nProfessional training which meets company needs \r\nRegular company events locally and abroad \r\nCasual, positive and open work environment",
+      "category": {
+        "id": "java",
+        "name": "Java"
+      },
+      "location": "Kyiv",
+      "experience": 3,
+      "english": {
+        "id": "upper",
+        "name": "Upper Intermediate"
+      },
+      "domain": "",
+      "published": "2020-12-07T17:39:18.562931",
+      "recruiter": {
+        "employer_website": "https://www.matrix42.com/en/",
+        "picture_url": "https://p.djinni.co/05477f778b/200.jpg",
+        "linkedin_headline": "HR Generalist at Matrix42",
+        "name": "\u042e\u043b\u0438\u044f \u0411\u043e\u0440\u043e\u0434\u0430\u0442\u043e\u0432\u0430",
+        "employer_about": "About Matrix42\r\nRecognized by Gartner as a unique, visionary vendor, Matrix42 delivers and manages future-ready, self-service digital workspaces that meet the needs of today\u2019s location-independent workforce. It achieves this with a complete, centralized and automated solution that provides authenticated access to workspaces across aggregated physical, virtual and mobile environments.\r\nAdvantages for executives\r\nBusiness managers benefit from: an easier way to ensure software compliance; complete transparency over software deployment approval and license costs; a comprehensive overview of workspace infrastructure and the status of its components; and the ability to manage workspaces as an automated business process.\r\nAdvantages for IT managers\r\nIT managers benefit from faster and simpler software distribution, support, management and maintenance. They use Matrix42\u2019s products and solutions to become IT service providers, delivering role-specific workspaces to end user customers through extensive automation and consistent, self-service interfaces.\r\nAdvantages for users\r\nEnd-users are empowered with authenticated, self-service access to an individualized workspace on any device, featuring the specific portfolio of applications they need to perform effectively.\r\nUltimately, the value of Matrix42 products and solutions can be measured in lower operational IT costs, greater software license efficiency, reduced IT admin workloads, simplified compliance fulfillment and happier, more productive employees.\r\nThat\u2019s why over 3,000 organizations including BMW, Infineon and Carl Zeiss rely on Matrix42 every day.",
+        "position": "HR Generalist",
+        "public_url": "/r/25776-hr-generalist-at-matrix42/",
+        "badge": "verified",
+        "id": 25776,
+        "company_name": "Matrix42"
+      },
+      "is_online": true,
+      "dou_link": "https://jobs.dou.ua/companies/matrix42/",
+      "is_favorite": false,
+      "has_seen": false,
+      "has_applied": false,
+      "messagethread_url": "",
+      "views_count": 0,
+      "applications_count": 0
+    }
+  ]
+}
