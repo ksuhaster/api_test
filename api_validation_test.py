@@ -34,7 +34,7 @@ def main_teardown(v, data):
 
 @pytest.fixture()
 def main_schema(data):
-    with open('schemas/api_schema.json') as api_schema:
+    with open('schemas/full_schema.json') as api_schema:
         main_schema = json.load(api_schema)
 
     v = Draft7Validator(main_schema)
